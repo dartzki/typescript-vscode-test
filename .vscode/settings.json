@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "typescript.tsdk": "node_modules/typescript/lib",
+    // When enabled, will trim trailing whitespace when you save a file.
+    "files.trimTrailingWhitespace": true,
+    // Enables or disables all validations
+    "javascript.validate.enable": false
+}

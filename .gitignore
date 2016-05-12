@@ -1,0 +1,7 @@
+.gradle/
+.gradletasknamecache
+**/.settings/gradle/**
+**/node_modules
+**/build/
+**/typings
+**/jspm_packages
